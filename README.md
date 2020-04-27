@@ -11,8 +11,4 @@
 > - ftprintfdestructor:
 >   git clone https://github.com/t0mm4rx/ftprintfdestructor
 
----
 
-| Started:               |Finished:        |
-| ---------------------- | --------------- |
-| 27/01/2020             | 02/03/2020      |
